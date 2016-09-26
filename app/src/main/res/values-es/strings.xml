@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCar</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="hello">Ola!</string>
+</resources>
